@@ -83,3 +83,4 @@ for j in range(len(variables), len(axs)):
 # Adjust layout for readability
 plt.tight_layout(rect=[0, 0, 1, 0.96])  # Add space for the main title
 plt.show()
+
